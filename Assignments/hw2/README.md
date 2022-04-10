@@ -6,4 +6,4 @@ Lastly an application problem is solved using GE method. Here we find the equati
 the augmented matrix that is being solved and the resulting solution coeficients to the planes equation. 
 A deliverables report can be found under the report directory.   
 
-Under the part 2 directory is a pdf of the solved theory problems. There is no code associated to this part. 
+Under the part 2 directory is a pdf of the solved theory problems. There is no code associated to this part.  
